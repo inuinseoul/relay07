@@ -80,9 +80,3 @@ String keyWorkbook = 'Your Workbook key';
 ## ❌구현하지 못한 사항
 - 파일 저장은 성공적으로 되지만, 사용자가 직접 해당 폴더에 접근이 불가능
 - 파일 다운로드 시 진행 dialog를 구현하지 못함
-
-## 📘 A 파트 구현 리퍼지토리 주소 
-
-Link : https://github.com/inuinseoul/relay08
-
-![image](https://user-images.githubusercontent.com/42922298/127791927-8cb7aa86-ebce-4212-ae18-09b74a84206f.png)
