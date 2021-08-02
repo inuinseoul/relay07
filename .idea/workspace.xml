@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79a9dbb2-d3c9-4516-8447-5b2b510f4d9d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/rely7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rely7.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/lib/config/key.dart" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/lib/config/key.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +57,8 @@
       <workItem from="1627838226462" duration="1346000" />
       <workItem from="1627840028104" duration="619000" />
       <workItem from="1627840694088" duration="18000" />
-      <workItem from="1627840823646" duration="271000" />
+      <workItem from="1627840823646" duration="1628000" />
+      <workItem from="1627863285647" duration="68000" />
     </task>
     <servers />
   </component>
